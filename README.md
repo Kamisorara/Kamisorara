@@ -2,7 +2,7 @@
 - 👀 平时也就写写代码和打游戏
 - 🌱 最近在学习springboot和vue
 - 💞️ emm。。。。。
-- 📫 xxxx.....
+- 📫 121028***@qq.com.....
 
 <!---
 Kamisorara/Kamisorara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
