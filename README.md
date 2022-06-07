@@ -3,6 +3,7 @@
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamisorara" /> </div>
 
 
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Kamisorara&theme=xcode" /> </div>
 <!---
 Kamisorara/Kamisorara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
